@@ -8,8 +8,8 @@ HotelPro is a full-stack hospitality and hotel management platform designed to s
 
 | Deliverable | URL |
 |---|---|
-| **GitHub Repository** | `https://github.com/<your-username>/hotelpro` |
-| **Live Demo Application** | `https://hotelpro.onrender.com` (or Vercel / Render deployment) |
+| **GitHub Repository** | https://github.com/dhanshree1414/hotelpro |
+| **Live Demo Application** | https://finished-communication-martha-coastal.trycloudflare.com |
 
 ### 🔑 Demo Accounts for Evaluation
 - **Hotel Administrator:**
